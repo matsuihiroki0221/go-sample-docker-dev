@@ -1,0 +1,7 @@
+{
+	"dockerComposeFile": [
+		"./../compose.yaml"
+	],
+	"service": "go-backend",
+	"workspaceFolder": "/go/src"
+}
